@@ -1,0 +1,1 @@
+https://www.career.go.kr/cnet/openapi/getOpenApi?apiKey=ef2b54e9cc85d1521fbda6b8d9bd649d&svcType=api&svcCode=MAJOR&contentType=json&gubun=univ_list&thisPage=1&perPage=10
